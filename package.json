@@ -1,5 +1,5 @@
 {
-  "name": "reflect",
+  "name": "reflect-ffi",
   "version": "0.0.1",
   "dependencies": {
     "cmake-js": "^2.1.0",
