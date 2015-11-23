@@ -2,7 +2,7 @@
   "name": "reflect-ffi",
   "version": "0.0.1",
   "dependencies": {
-    "cmake-js": "^2.1.0",
+    "cmake-js": "^3",
     "nan": "^2.1.0"
   }
 }
